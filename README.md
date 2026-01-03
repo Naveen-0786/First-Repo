@@ -1,3 +1,5 @@
 # Record of Scientists 
 <br>
-Description About 10 Scientists.
+This is the New repository.
+<br>
+Description of the content.
