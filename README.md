@@ -1,3 +1,3 @@
 # Record of Scientists 
 <br>
-Description about 10 Scientist.
+Description About 10 Scientists.
