@@ -1,3 +1,3 @@
-# First-Repo
+# Record of Scientists 
 <br>
-Create a File fro use
+Description about 10 Scientist.
